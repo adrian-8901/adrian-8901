@@ -6,9 +6,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I am currenly on CherishOS OFFICIAL and maintains a project call "FiimeROM";
+- 👨🏻‍💻 I am currenly on CherishOS OFFICIAL , CrystalOS core development team and maintains a project call "FiimeROM";
 - 👦🏼 I am currenly 12 years old
-- 🚀 I'm currently on secondary school (Hong Kong);
+- 🚀 I'm currently on secondary school Form 1 (Hong Kong);
 - 🌱 I am building an Android system and custom ROMs;
 - 💬 Ask me on telegram with anything, I will be happy to help;
 - 📫 How to reach me: adrianlam230@gmail.com or [Telegram](https://t.me/P4042);

@@ -6,7 +6,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I am currenly on CherishOS OFFICIAL , CrystalOS core development team and maintains a project call "FiimeROM";
+- 👨🏻‍💻 I am currenly on ElixirOS OFFICIAL and CrystalOS core development team;
 - 👦🏼 I am currenly 12 years old
 - 🚀 I'm currently on secondary school Form 1 (Hong Kong);
 - 🌱 I am building an Android system and custom ROMs;

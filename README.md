@@ -6,21 +6,19 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I am currenly on ElixirOS OFFICIAL and CrystalOS core development team;
-- 👦🏼 I am currenly 12 years old
-- 🚀 I'm currently on secondary school Form 1 (Hong Kong);
+- 👨🏻‍💻 I am currenly on  CrystalOS core development team;
 - 🌱 I am building an Android system and custom ROMs;
 - 💬 Ask me on telegram with anything, I will be happy to help;
 - 📫 How to reach me: adrianlam230@gmail.com or [Telegram](https://t.me/P4042);
 - 🖥 Currenly working on a macbook air early 2015;
 - 📱 Device : Xiaomi Mi 10 (umi);
-- 💪🏻 To support, Pls join my support group [Telegram](https://t.me/fiimerom) or [Telegram](https://t.me/cherishumi)
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>

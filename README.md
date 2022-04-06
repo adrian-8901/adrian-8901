@@ -3,16 +3,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/P4042)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=adrian-8901.adrian-8901)
-
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I am currenly on  CrystalOS core development team;
-- 🌱 I am building an Android system and custom ROMs;
-- 💬 Ask me on telegram with anything, I will be happy to help;
-- 📫 How to reach me: adrianlam230@gmail.com or [Telegram](https://t.me/P4042);
-- 🖥 Currenly working on a macbook air early 2015;
-- 📱 Device : Xiaomi Mi 10 (umi);
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
